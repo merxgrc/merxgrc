@@ -12,9 +12,8 @@ Currently building **Estimatix.AI**, an industry-funded SaaS app that empowers c
 ---
 
 ### 🚀 Featured Projects
-- **Estimatix.AI** – Industry-funded SaaS platform for contractor cost estimation.  
-- **Finance Manager** – Kotlin + PostgreSQL finance web app with Plaid integration.  
-- **Algorithm Journal** – Detailed LeetCode-style solutions with write-ups hosted on my site.  
+- **Estimatix.AI** – [Industry-funded SaaS platform for contractor cost estimation. ](https://github.com/merxgrc/estimatix.ai) 
+- **Finance Manager** – [Kotlin-ktor + PostgreSQL finance web app with Plaid integration.  ](https://github.com/merxgrc/Finance_Manager)
 
 ---
 
