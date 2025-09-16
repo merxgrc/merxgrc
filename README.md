@@ -5,7 +5,7 @@ Currently building **Estimatix.AI**, an industry-funded SaaS app that empowers c
 ---
 
 ### 🌟 Skills
-- **Languages**: Java, Kotlin, JavaScript/TypeScript, SQL  
+- **Languages**: Java, Kotlin, Python, JavaScript/TypeScript,  SQL  
 - **Frameworks**: Spring, ktor, React, Next.js  
 - **Tools**: Docker, Kubernetes, JUnit  
 
