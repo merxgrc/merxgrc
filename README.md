@@ -1,25 +1,47 @@
-# 👋 Hi, I’m Marcos!  
-I’m a JVM-focused developer who loves building with **Java, Kotlin, and Spring**.  
-Currently building **Estimatix.AI**, an industry-funded SaaS app that empowers contractors with accurate AI-driven estimates.
+# 👋 Hi, I'm Marcos!
 
----
+IT support and infrastructure professional with a B.S. in Computer Science from San Francisco State University.
 
 ### 🌟 Skills
-- **Languages**: Java, Kotlin, Python, JavaScript/TypeScript,  SQL  
-- **Frameworks**: Spring, ktor, React, Next.js  
-- **Tools**: Docker, Kubernetes, JUnit  
+
+**End-User Support**
+- Microsoft 365 & Google Workspace administration and user support
+- macOS and Windows troubleshooting
+- Account setup, password resets, and access management
+- Clear, patient communication with non-technical users
+
+**Systems & Networking**
+- Active Directory on Windows Server (users, groups, OUs)
+- Virtualization with Proxmox VE
+- Firewall/routing with pfSense
+- VLAN segmentation, guest network isolation, DHCP/DNS
+- Network documentation and diagramming (draw.io)
+
+**Scripting & Development**
+- Python
 
 ---
 
-### 🚀 Featured Projects
-- **Household-inventory-Spring-API** - [A test-driven backend API for tracking household inventory, built with Java 21 and Spring Boot 3.5.5.](https://github.com/merxgrc/household-inventory-java-spring-api)
-- **Finance Manager** – [Kotlin-ktor + PostgreSQL finance web app with Plaid integration.  ](https://github.com/merxgrc/Finance_Manager)
-- **Estimatix.AI** – [Industry-funded SaaS platform for contractor cost estimation. ](https://github.com/merxgrc/estimatix.ai) 
+### Featured Projects
+
+** Home Lab: Segmented Network + Active Directory**
+Built a small-business-style network at home to practice real IT administration.
+- pfSense firewall on a Protectli appliance handling routing, DHCP, and firewall rules
+- Separate VLANs and SSIDs for daily use, guests, and management
+- Proxmox hypervisor hosting Windows Server with Active Directory
+- Documented with a full network diagram
+   [View the lab write-up and diagram](LINK-TO-REPO)
+
+
+
+**💻 Development Work**
+
+ [Project name](LINK-TO-REPO)
+
 ---
 
-💡 Inspired by Quincy Larson’s mission at FreeCodeCamp, I value making education and software accessible to all.  
-Outside of coding, I enjoy running, learning, and connecting with curious engineers.  
-
-
+### 📫 Contact
+- LinkedIn: [your-link](LINK)
+- Email: your.email@example.com
 
 
